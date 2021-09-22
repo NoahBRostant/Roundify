@@ -25,11 +25,11 @@ Consider Buying me a Coffee?
 Changelogs:
 
 V0.0.11:
-  [Bug Fix] Fixed the issue with rounded corners displaying above the Taskbar on the Desktop.
-  [Bug] Settings background flickers when refreshed.
-  [Bug] Bottom corners of a maximised window disappear when the taskbar or desktop is clicked.
-  [Bug] Reduced windows will cause the rounded corners to display above the taskbar.
-  [Bug] Rounded corners are displayed over Fullscreen apps when the Roundify settings menu is open.
+  - Bug Fix: Fixed the issue with rounded corners displaying above the Taskbar on the Desktop.
+  - Bug: Settings background flickers when refreshed.
+  - Bug: Bottom corners of a maximised window disappear when the taskbar or desktop is clicked.
+  - Bug: Reduced windows will cause the rounded corners to display above the taskbar.
+  - Bug: Rounded corners are displayed over Fullscreen apps when the Roundify settings menu is open.
 -----------------------------------------------------------------------------------------------------------------
 
 Skins Used:
