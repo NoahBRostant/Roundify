@@ -9,7 +9,6 @@ All parameters can be found in the settings menu which can be first accessed by 
 Rainmeter is Required!
 -----------------------------------------------------------------------------------------------------------------
 
-
 Current Features:
 - Corner Radius. (Can be set between 0 - 100)
 - Corner Colour. (Opens a Colour Picker menu which can be downloaded separately for free curtesy of jsmorley)
@@ -19,17 +18,7 @@ Current Features:
 If at any point you wish to quit the app completely you can open the Settings menu and click "Quit" and then "Quit" again.
 or you can remove Rainmeter from your app settings. (NOTE: all other Rainmeter skins will also be removed)
 
-Consider Buying me a Coffee?
------------------------------------------------------------------------------------------------------------------
-
-Changelogs:
-
-V0.0.11:
-  - Bug Fix: Fixed the issue with rounded corners displaying above the Taskbar on the Desktop.
-  - Bug: Settings background flickers when refreshed.
-  - Bug: Bottom corners of a maximised window disappear when the taskbar or desktop is clicked.
-  - Bug: Reduced windows will cause the rounded corners to display above the taskbar.
-  - Bug: Rounded corners are displayed over Fullscreen apps when the Roundify settings menu is open.
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P5696XP)
 -----------------------------------------------------------------------------------------------------------------
 
 Skins Used:
