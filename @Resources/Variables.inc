@@ -1,15 +1,21 @@
 ------------------------------------------------------------------------------------ Variables ----------------------------------------------------------------------------------
 
 [Variables]
+DisplayVersion=1.0.0
 
 ;Window Variables
 Color1=39,39,39
-Color2=216,222,233
-Color3=191,97,106
+Color2=47,47,47
+Color3=75,75,75
 Color4=57,57,57
-Color5=90,90,90
-Color6=163,190,140
-WindowRadius=10
+Color5=52,52,52
+Color6=             ;Resurved
+Color7=216,222,233  ;White Text
+Color8=76,194,255   ;Selected Blue
+Color9=191,97,106
+WindowRadius=6
+BorderWidth=2
+BorderColor=75,75,75
 TitleHeight=80
 LPadding=15
 Spacing=50
@@ -20,6 +26,9 @@ Line3=(#Line2#+#Spacing#)
 Line4=(#Line3#+#Spacing#)
 Line5=(#Line4#+#Spacing#)
 Line6=(#Line5#+#Spacing#)
+UpdateWinX=554
+UpdateWinY=260
+UpdaterOpen=1
 
 ;Measures
 CornerRadius=10
