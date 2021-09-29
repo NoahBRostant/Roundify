@@ -7,7 +7,7 @@ ChangelogLink3="https://github.com/NoahBRostant/Roundify/releases/download/v0.11
 ChangelogLink4="https://github.com/NoahBRostant/Roundify/releases/download/v0.11.1/Roundify_0.11.1.rmskin"
 ChangelogLink5="https://github.com/NoahBRostant/Roundify/releases/download/v0.11.2/Roundify_0.11.2.rmskin"
 ChangelogLink6="https://github.com/NoahBRostant/Roundify/releases/download/v0.12.0/Roundify_0.12.0.rmskin"
-ChangelogLink7=""
+ChangelogLink7="https://github.com/NoahBRostant/Roundify/releases/download/v0.13.0/Roundify_0.13.0.rmskin"
 ChangelogLink8=""
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
