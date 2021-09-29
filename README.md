@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://github.com/noahbrostant/Roundify/releases/latest"><img style="margin-left: 2px; margin-right: 2px;" alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/noahbrostant/Roundify?sort=semver"></a>
     <a href="https://github.com/noahbrostant/Roundify/releases/latest"><img style="margin-left: 2px; margin-right: 2px;" alt="GitHub all releases" src="https://img.shields.io/github/downloads/noahbrostant/Roundify/total"></a>
-    <a href="https://github.com/NoahBRostant/Roundify/blob/v1.0.0/LICENCE.md"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+    <a href="https://github.com/NoahBRostant/Roundify/blob/v1.0.0/LICENCE.md"><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" alt="License: CC BY-NC-SA 4.0"></a></a>
 </p>
 
 ## What is Roundify?
