@@ -1,11 +1,11 @@
 ![Image of Yaktocat](https://raw.githubusercontent.com/NoahBRostant/Roundify/main/images/RoundifyBanner.png)
-<div style="width: 100%; display: flex; justify-content: center;">
-    <img style="margin-left: 2px; margin-right: 2px;" alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/noahbrostant/Roundify?sort=semver">
-    <img style="margin-left: 2px; margin-right: 2px;" alt="GitHub all releases" src="https://img.shields.io/github/downloads/noahbrostant/Roundify/total">
-    <img style="margin-left: 2px; margin-right: 2px;" alt="GitHub" src="https://img.shields.io/github/license/noahbrostant/Roundify">
-</div>
+<p align="center">
+    <a href="https://github.com/noahbrostant/Roundify/releases/latest"><img style="margin-left: 2px; margin-right: 2px;" alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/noahbrostant/Roundify?sort=semver"></a>
+    <a href="https://github.com/noahbrostant/Roundify/releases/latest"><img style="margin-left: 2px; margin-right: 2px;" alt="GitHub all releases" src="https://img.shields.io/github/downloads/noahbrostant/Roundify/total"></a>
+    <a href=""><img style="margin-left: 2px; margin-right: 2px;" alt="GitHub" src="https://img.shields.io/github/license/noahbrostant/Roundify"></a>
+</p>
 
-## What is the meaning of life?
+## What is Roundify?
 
 Roundify is an application/skin built for Rainmeter that allows the user to change the corner radius of their display. Roundify allows for a high level of customizability and we're just getting started with it.
 
@@ -19,3 +19,8 @@ Roundify is an application/skin built for Rainmeter that allows the user to chan
 - Updater (Keeps track of new updates and allows you to update directly from the app).
 - Downdater (Allows you to return to a previous version directly from the skin).
 
+## Documentation
+
+[Documentation](https://linktodocumentation)
+
+  
