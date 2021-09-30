@@ -8,6 +8,12 @@
 
 Roundify is an application/skin built for Rainmeter that allows the user to change the corner radius of their display. Roundify allows for a high level of customizability and we're just getting started with it.
 
+- What your application does,
+
+- Why you used the technologies you used,
+
+- Some of the challenges you faced and features you hope to implement in the future.
+
 ## Features
 
 - Corner Radius (Can be set between 0 - 100).
@@ -21,5 +27,3 @@ Roundify is an application/skin built for Rainmeter that allows the user to chan
 ## Documentation
 
 [Documentation](https://linktodocumentation)
-
-  
