@@ -26,4 +26,4 @@ Roundify is an application/skin built for Rainmeter that allows the user to chan
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
+[Documentation](https://github.com/NoahBRostant/Roundify/wiki)
