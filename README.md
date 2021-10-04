@@ -1,9 +1,8 @@
+<img align="center" src="https://github.com/NoahBRostant/Roundify/blob/main/images/RoundifyBannerSmallRound.png?raw=true"></img>
 <p align="center">
     <a href="https://github.com/noahbrostant/Roundify/releases/latest"><img style="margin-left: 2px; margin-right: 2px;" alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/noahbrostant/Roundify?sort=semver"></a>
     <a href="https://github.com/noahbrostant/Roundify/releases/latest"><img style="margin-left: 2px; margin-right: 2px;" alt="GitHub all releases" src="https://img.shields.io/github/downloads/noahbrostant/Roundify/total"></a>
 </p>
-
-![Image of Yaktocat](https://raw.githubusercontent.com/NoahBRostant/Roundify/main/images/RoundifyBanner.png)
 
 ## What is Roundify?
 
