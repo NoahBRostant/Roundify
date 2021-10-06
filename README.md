@@ -28,13 +28,12 @@ This is however my first time programing a Rainmeter program so there was a lot 
 
 ## Special Thanks
 
-### Skins Used:
+### Skins:
 
 ColorPicker by jsmorley (Modified by Noah Bradford Rostant)
 
-### Plugins Used:
+### Plugins:
 
-InputText
 Frosted Glass by theAzack9
 IsFullScreen by jsmorley
 CursorColor by jsmorley
