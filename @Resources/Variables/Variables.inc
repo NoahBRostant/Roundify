@@ -29,7 +29,7 @@ Line6=(#SettingsButton#+#Spacing#)
 
 ;Measures
 CornerRadius=10
-CornerColor=11,15,24
+CornerColor=4,9,20
 DisplayColor=4,9,20
 SettingsOn=1
 FullScreenOn=1
