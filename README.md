@@ -15,7 +15,7 @@ This is however my first time programing a Rainmeter program so there was a lot 
 ## Features
 
 - Corner Radius (Can be set between 0 - 100).
-- Corner Colour (Opens a <a href="https://forum.rainmeter.net/viewtopic.php?t=26884">Colour Picker</a> menu by <a href="https://github.com/jsmorley">@jsmorley</a>).
+- Corner Colour (Opens a powerful colour picker called Colour Picker+).
 - Enable Fullscreen Corners. (When an app is in full screen keep the rounded corners on).
 - Enable Settings Button. (The hidden button in the bottom left to open the settings menu).
 - Padding (Add padding to the edges of your display).
