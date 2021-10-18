@@ -37,3 +37,13 @@ ColorPicker by jsmorley (Modified by Noah Bradford Rostant)
 Frosted Glass by theAzack9
 IsFullScreen by jsmorley
 CursorColor by jsmorley
+
+## Socials
+
+<p align="center">
+    <a href="https://ko-fi.com/P5P5696XP"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"></img></a>
+    <a href="https://ko-fi.com/P5P5696XP"><img src="https://img.icons8.com/color/48/000000/devianart.png"></img></a>
+</p>
+<p align="center">
+    <a href="https://ko-fi.com/P5P5696XP"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></img></a>
+</p>
