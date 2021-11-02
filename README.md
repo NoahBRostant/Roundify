@@ -8,15 +8,15 @@
 
 Roundify is an application/skin built for Rainmeter that allows the user to change the corner radius of their display. Roundify allows for a high level of customizability and we're just getting started with it.
 
-Roundify utilises Rainmeter to create rounded edges to your screen and/or windows. I desided to use Rainmeter as it seemed like a very versitile program to write in and allowed me to very quickly create something out of nothing.
+Roundify utilizes Rainmeter to create rounded edges to your screen and/or windows. I decided to use Rainmeter as it seemed like a very versatile program to write in and allowed me to very quickly create something out of nothing.
 
-This is however my first time programing a Rainmeter program so there was a lot to learn. Rainmeter does have a very strong and helpfull comunity that helped me along the way and I'll give special thanks to those [here](#special-thanks).
+This is however my first time programing a Rainmeter program so there was a lot to learn. Rainmeter does have a very strong and helpful community that helped me along the way and I'll give special thanks to those [here](#special-thanks).
 
 ## Features
 
 - Corner Radius (Can be set between 0 - 100).
 - Corner Colour (Opens a powerful colour picker called Colour Picker+).
-- Enable Fullscreen Corners. (When an app is in full screen keep the rounded corners on).
+- Enable Full-screen Corners. (When an app is in full screen keep the rounded corners on).
 - Enable Settings Button. (The hidden button in the bottom left to open the settings menu).
 - Padding (Add padding to the edges of your display).
 - Updater (Keeps track of new updates and allows you to update directly from the app).
