@@ -9,9 +9,9 @@ Color2=47,47,47
 Color3=75,75,75
 Color4=57,57,57
 Color5=52,52,52
-Color6=EBCB8B       ;Yellow
-Color7=216,222,233  ;White Text
-Color8=76,194,255   ;Selected Blue
+Color6=EBCB8B
+Color7=216,222,233
+Color8=76,194,255
 Color9=191,97,106
 WindowRadius=6
 BorderWidth=1
@@ -26,6 +26,11 @@ Color=(#PaddingAmount#+#Spacing#)
 Fullscreen=(#TitleHeight#)
 SettingsButton=(#Fullscreen#+#Spacing#)
 Line6=(#SettingsButton#+#Spacing#)
+
+Padding1=200
+Padding2=150
+Padding3=100
+Padding4=50
 
 ;Measures
 CornerRadius=10
