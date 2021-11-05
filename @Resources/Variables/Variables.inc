@@ -37,7 +37,7 @@ CornerRadius=10
 CornerColor=4,9,20
 DisplayColor=4,9,20
 SettingsOn=1
-FullScreenOn=1
+FullScreenOn=2
 UpdateWinY=260
 UpdateWinX=569
 
