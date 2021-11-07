@@ -4,14 +4,14 @@
 DisplayVersion=1.0.0-beta.3
 
 ;Window Variables
-Color1=39,39,39
-Color2=47,47,47
-Color3=75,75,75
+Color1=32,32,32
+Color2=43,43,43
+Color3=67,67,67
 Color4=57,57,57
-Color5=52,52,52
+Color5=50,50,50
 Color6=EBCB8B
-Color7=216,222,233
-Color8=76,194,255
+Color7=255,255,255
+Color8=76,179,235
 Color9=191,97,106
 WindowRadius=6
 BorderWidth=1
