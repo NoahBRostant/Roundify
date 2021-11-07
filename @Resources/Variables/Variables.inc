@@ -20,12 +20,6 @@ TitleHeight=150
 LPadding=350
 Spacing=50
 InputX=650
-Radius=(#TitleHeight#)
-PaddingAmount=(#Radius#+#Spacing#)
-Color=(#PaddingAmount#+#Spacing#)
-Fullscreen=(#TitleHeight#)
-SettingsButton=(#Fullscreen#+#Spacing#)
-Line6=(#SettingsButton#+#Spacing#)
 
 Padding1=200
 Padding2=150
