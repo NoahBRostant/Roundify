@@ -10,7 +10,7 @@ Roundify is an application/skin built for Rainmeter that allows the user to chan
 
 Roundify utilizes Rainmeter to create rounded edges to your screen and/or windows. I decided to use Rainmeter as it seemed like a very versatile program to write in and allowed me to very quickly create something out of nothing.
 
-This is however my first time programing a Rainmeter program so there was a lot to learn. Rainmeter does have a very strong and helpful community that helped me along the way and I'll give special thanks to those [here](#special-thanks).
+This is however my first time programming a Rainmeter program so there was a lot to learn. Rainmeter does have a very strong and helpful community that helped me along the way and I'll give special thanks to those [here](#special-thanks).
 
 ## Features
 

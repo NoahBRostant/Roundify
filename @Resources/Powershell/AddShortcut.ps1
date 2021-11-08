@@ -41,7 +41,7 @@ function StartFolder {
     $Shortcut.Save()
 }
 
-function RemoveDeskop {
+function RemoveDesktop {
     Remove-Item "$DesktopPath\Roundify Settings.lnk" -Recurse
 }
 
