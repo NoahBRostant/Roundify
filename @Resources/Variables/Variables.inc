@@ -21,6 +21,18 @@ TitleHeight=150
 LPadding=350
 Spacing=50
 InputX=650
+WindowWidth=886
+WindowHeight=514
+SidebarWidth=190
+UpdaterWindowWidth=734
+UpdaterWindowHeight=380
+UpdaterSidebarWidth=244
+ChangelogSlideHeight=272
+ChangelogWidth=422
+
+Option1Height=50
+Option2Height=50
+
 
 Padding1=200
 Padding2=150
