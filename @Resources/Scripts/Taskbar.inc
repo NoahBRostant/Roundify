@@ -1,4 +1,4 @@
-[Toolbar]
+[Taskbar]
 Measure=Plugin
 Plugin=ShowInToolbar
 WindowTitle=Roundify Settings
