@@ -24,7 +24,7 @@ This is however my first time programming a Rainmeter program so there was a lot
 
 ## Documentation
 
-[Wiki](https://github.com/NoahBRostant/Roundify/wiki)
+[Wiki](http://localhost:3000/?page=roundify&section=wiki)
 
 ## Special Thanks
 
