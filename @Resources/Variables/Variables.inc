@@ -41,11 +41,11 @@ Padding4=50
 
 ;Measures
 CornerRadius=10
-CornerColor=4,9,20
+CornerColor=33,34,36
 DisplayColor=4,9,20
 SettingsOn=0
 FullScreenOn=2
-UpdateWinY=260
-UpdateWinX=569
+ShortcutStart=1
+ShortcutDesktop=1
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

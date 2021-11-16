@@ -1,4 +1,25 @@
+[Rainmeter]
+OnRefreshAction=[!Delay 100][!CommandMeasure PSRM "Check"]
+
 [Variables]
+
+----------------------------------------------------- Styling ------------------------------------------------------
+
+[StyleStartTrue]
+EnterColor=#Color8#
+LeaveColor=#Color8A#
+LeftMouseUpAction=[!CommandMeasure PSRM "RemoveStartFolder"][!Delay 100][!Refresh]
+
+[StyleStartFalse]
+LeftMouseUpAction=[!CommandMeasure PSRM "StartFolder"][!Delay 100][!Refresh]
+
+[StyleDesktTrue]
+EnterColor=#Color8#
+LeaveColor=#Color8A#
+LeftMouseUpAction=[!CommandMeasure PSRM "RemoveDesktop"][!Delay 100][!Refresh]
+
+[StyleDesktFalse]
+LeftMouseUpAction=[!CommandMeasure PSRM "Desktop"][!Delay 100][!Refresh]
 
 [PSRM]
 Measure=Plugin
@@ -15,7 +36,7 @@ Text=General
 ---------------------------------------------------- Shortcuts ------------------------------------------------------
 
 [MeterOption1]
-Hidden=0
+Hidden=1
 
 [MeterTextOption1]
 Text="Shortcuts"
@@ -46,8 +67,9 @@ Meter=Shape
 Container=MeterOption1
 X=(([MeterOption1:W]/2)-10-[MeterOtherSetting3Option1:W])
 Y=55
+MeterStyle=StyleStartFalse
 Shape=Rectangle 0,0,140,40,#WindowRadius# | Fill Color #ShortcutSSelect# | StrokeWidth #BorderWidth# | Stroke Color #BorderColor#,74
-LeftMouseUpAction=[!WriteKeyValue Variables ShortcutStart "(1-#ShortcutStart#)" "#@#\Variables\Variables.inc"][!EnableMeasure MeasureToggleStartShortcuts][!Refresh]
+LeftMouseUpAction=[!CommandMeasure PSRM "StartFolder"][!Delay 100][!Refresh]
 DynamicVariables=1
 
 [MeterOtherSetting2Option1]
@@ -70,8 +92,8 @@ Meter=Shape
 Container=MeterOption1
 X=(([MeterOption1:W]/2)+10)
 Y=55
-Shape=Rectangle 0,0,140,40,#WindowRadius# | Fill Color #ShortcutDSelect# | StrokeWidth #BorderWidth# | Stroke Color #BorderColor#,74
-LeftMouseUpAction=[!WriteKeyValue Variables ShortcutDesktop "(1-#ShortcutDesktop#)" "#@#\Variables\Variables.inc"][!EnableMeasure MeasureToggleDesktopShortcuts][!Refresh]
+Shape=Rectangle 0,0,140,40,#WindowRadius# | Fill Color ShortcutDSelect | StrokeWidth #BorderWidth# | Stroke Color #BorderColor#,74
+LeftMouseUpAction=[!CommandMeasure PSRM "Desktop"][!Delay 100][!Refresh]
 DynamicVariables=1
 
 [MeterOtherSetting4Option1]
@@ -88,26 +110,6 @@ StringAlign=CenterCenter
 AntiAlias=1
 Text="Desktop"
 DynamicVariables=1
-
-[MeasureOtherSetting1Option1]
-Measure=Calc
-Formula=1
-DynamicVariables=1
-ifEqualValue=#ShortcutDesktop#=0
-ifEqualAction=[!WriteKeyValue Variables ShortcutDSelect "#Color8A#" "#@#\Variables\Variables.inc"][!CommandMeasure PSRM "Desktop"][!Delay 100][!Refresh]
-ifAboveValue=#ShortcutDesktop#=0
-ifAboveAction=[!WriteKeyValue Variables ShortcutDSelect "#Color5#" "#@#\Variables\Variables.inc"][!CommandMeasure PSRM "RemoveDesktop"][!Delay 100][!Refresh]
-Disabled=1
-
-[MeasureOtherSetting1Option1]
-Measure=Calc
-Formula=1
-DynamicVariables=1
-ifEqualValue=#ShortcutStart#=0
-ifEqualAction=[!WriteKeyValue Variables ShortcutSSelect "#Color8A#" "#@#\Variables\Variables.inc"][!CommandMeasure PSRM "StartFolder"][!Delay 100][!Refresh]
-ifAboveValue=#ShortcutStart#=0
-ifAboveAction=[!WriteKeyValue Variables ShortcutSSelect "#Color5#" "#@#\Variables\Variables.inc"][!CommandMeasure PSRM "RemoveStartFolder"][!Delay 100][!Refresh]
-Disabled=1
 
                                                 -------------------------------- Settings Button --------------------------------
 

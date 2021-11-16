@@ -3,17 +3,17 @@ $Startpath = $env:APPDATA
 
 function Check {
     If (Test-Path -Path "$Startpath\Microsoft\Windows\Start Menu\Programs\Roundify Settings.lnk") {
-        $RmAPI.Bang('[!SetVariable ShortcutStart "1"][!WriteKeyValue Variables ShortcutStart "1"]')
+        $RmAPI.Bang('[!SetVariable ShortcutStart "1"]')
         $RmAPI.Log("Found: Roundify Settings in programs")
     } else {
-        $RmAPI.Bang('[!SetVariable ShortcutStart "0"][!WriteKeyValue Variables ShortcutStart "0"]')
+        $RmAPI.Bang('[!SetVariable ShortcutStart "0"]')
         $RmAPI.Log("Failed to find Roundify Settings in programs")
     }
     If (Test-Path -Path "$DesktopPath\Roundify Settings.lnk") {
-        $RmAPI.Bang('[!SetVariable ShortcutDesktop "1"][!WriteKeyValue Variables ShortcutDesktop "1"]')
+        $RmAPI.Bang('[!SetVariable ShortcutDesktop "1"]')
         $RmAPI.Log("Found: Roundify Settings on desktop")
     } else {
-        $RmAPI.Bang('[!SetVariable ShortcutDesktop "0"][!WriteKeyValue Variables ShortcutDesktop "0"]')
+        $RmAPI.Bang('[!SetVariable ShortcutDesktop "0"]')
         $RmAPI.Log("Failed to find Roundify Settings on desktop")
     }
 
