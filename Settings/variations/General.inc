@@ -12,7 +12,7 @@ WindowTitle=Roundify Settings - General
 [MeterTitle]
 Text=General
 
-                                                -------------------------------- Shortcuts --------------------------------
+---------------------------------------------------- Shortcuts ------------------------------------------------------
 
 [MeterOption1]
 Hidden=0
