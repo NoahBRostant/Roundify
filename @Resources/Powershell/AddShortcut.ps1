@@ -25,7 +25,7 @@ function Desktop {
     $WScriptShell = New-Object -ComObject WScript.Shell
     $Shortcut = $WScriptShell.CreateShortcut("$DesktopPath\Roundify Settings.lnk")
     $Shortcut.TargetPath = $RainmeterExe+"Rainmeter.exe"
-    $Shortcut.Arguments = '!ActivateConfig Roundify\Settings General.ini'
+    $Shortcut.Arguments = '!ActivateConfig Roundify\Settings Settings.ini'
     $shortcut.IconLocation = $ResourceFolder+"Images\Logo.ico"
     $Shortcut.Save()
 }
@@ -36,7 +36,7 @@ function StartFolder {
     $WScriptShell = New-Object -ComObject WScript.Shell
     $Shortcut = $WScriptShell.CreateShortcut("$Startpath\Microsoft\Windows\Start Menu\Programs\Roundify Settings.lnk")
     $Shortcut.TargetPath = $RainmeterExe+"Rainmeter.exe"
-    $Shortcut.Arguments = '!ActivateConfig Roundify\Settings General.ini'
+    $Shortcut.Arguments = '!ActivateConfig Roundify\Settings Settings.ini'
     $shortcut.IconLocation = $ResourceFolder+"Images\Logo.ico"
     $Shortcut.Save()
 }
