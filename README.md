@@ -1,4 +1,4 @@
-# Roundify
+# Roundify (Discontinued as of 2022)
 
 Hello There Customizer,
 
