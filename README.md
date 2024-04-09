@@ -52,13 +52,19 @@ Encountered a bug or spotted incorrect information? Please reach out to Noah Bra
 - **Noah Bradford Rostant**: For the development and maintenance of Roundify.
 - **Community Contributions**: Special thanks to those who have provided feedback and bug reports.
 
-## Support
-
-Enjoying Roundify? Consider supporting the project through ko-fi.
-
 ## Credits
 
 - **App used in Cover/Preview**: Notes Sheet App
 - **App used to round the taskbar**: RoundedTB
 
 Thank you for choosing Roundify to enhance your desktop experience. Enjoy the sleek new look of your display!
+
+## Socials
+
+<p align="center">
+    <a href="https://www.instagram.com/noahbrostant/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"></img></a>
+    <a href="https://www.deviantart.com/noahbradford"><img src="https://img.icons8.com/color/48/000000/devianart.png"></img></a>
+</p>
+<p align="center">
+    <a href="https://ko-fi.com/P5P5696XP"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></img></a>
+</p>
