@@ -2,6 +2,7 @@
 <p align="center">
     <a href="https://github.com/noahbrostant/Roundify/releases/latest"><img style="margin-left: 2px; margin-right: 2px;" alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/noahbrostant/Roundify?sort=semver"></a>
     <a href="https://github.com/noahbrostant/Roundify/releases/latest"><img style="margin-left: 2px; margin-right: 2px;" alt="GitHub all releases" src="https://img.shields.io/github/downloads/noahbrostant/Roundify/total"></a>
+    <a href="https://www.deviantart.com/noahbradford/art/Roundify-DISCONTINUED-892181221"><img style="margin-left: 2px; margin-right: 2px;" alt="Deviantart Views" src="https://img.shields.io/badge/Views-6.7K-brightgreen?style=flat&logo=deviantart"></a>
 </p>
 
 ## What is Roundify?
