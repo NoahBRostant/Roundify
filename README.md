@@ -18,7 +18,7 @@ Utilizing Rainmeter, Roundify creates rounded edges for your screen and/or windo
 - **Enable Settings Button**: Reveals a hidden settings menu for easy adjustments.
 - **Padding**: Adds customizable padding to the display's edges.
 - **Updater**: Automatically checks and applies new updates from within the app.
-- **Downdater**: Facilitates reverting to previous versions directly from the skin.
+- **Rollback**: Facilitates reverting to previous versions directly from the skin.
 
 ## Documentation
 
