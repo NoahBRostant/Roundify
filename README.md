@@ -1,4 +1,8 @@
-![Roundify Banner](images/RoundifyBannerSmallRound.png)
+<img align="center" src="https://github.com/NoahBRostant/Roundify/blob/main/images/RoundifyBannerSmallRound.png?raw=true"></img>
+<p align="center">
+    <a href="https://github.com/noahbrostant/Roundify/releases/latest"><img style="margin-left: 2px; margin-right: 2px;" alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/noahbrostant/Roundify?sort=semver"></a>
+    <a href="https://github.com/noahbrostant/Roundify/releases/latest"><img style="margin-left: 2px; margin-right: 2px;" alt="GitHub all releases" src="https://img.shields.io/github/downloads/noahbrostant/Roundify/total"></a>
+</p>
 # Roundify (Discontinued as of 2022)
 
 Welcome to the Roundify README, your guide to customizing the look of your display edges with a touch of elegance. Crafted with the Windows 11 Fluent theme in mind, Roundify introduces smoothly rounded corners to your display, enhancing your user interface with a modern aesthetic. This customization tool is compatible with Windows 7 and newer versions, given Rainmeter is installed on your system.
