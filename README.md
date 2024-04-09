@@ -8,35 +8,33 @@
 
 Roundify is an application/skin built for Rainmeter that allows the user to change the corner radius of their display. Roundify allows for a high level of customizability and we're just getting started with it.
 
-Roundify utilizes Rainmeter to create rounded edges to your screen and/or windows. I decided to use Rainmeter as it seemed like a very versatile program to write in and allowed me to very quickly create something out of nothing.
-
-This is however my first time programming a Rainmeter program so there was a lot to learn. Rainmeter does have a very strong and helpful community that helped me along the way and I'll give special thanks to those [here](#special-thanks).
+Utilizing Rainmeter, Roundify creates rounded edges for your screen and/or windows. This project marks my first foray into programming a Rainmeter skin, an endeavor that introduced me to a steep learning curve. Thankfully, Rainmeter's robust and supportive community has been instrumental in this journey. Special thanks are extended to key contributors [here](#special-thanks).
 
 ## Features
 
-- Corner Radius (Can be set between 0 - 100).
-- Corner Colour (Opens a powerful colour picker called Colour Picker+).
-- Enable Full-screen Corners. (When an app is in full screen keep the rounded corners on).
-- Enable Settings Button. (The hidden button in the bottom left to open the settings menu).
-- Padding (Add padding to the edges of your display).
-- Updater (Keeps track of new updates and allows you to update directly from the app).
-- Downdater (Allows you to return to a previous version directly from the skin).
+- **Corner Radius**: Can be set between 0 - 100.
+- **Corner Colour**: Integrates with Colour Picker+ for comprehensive color selection.
+- **Enable Full-screen Corners**: Maintains rounded corners even in full-screen applications.
+- **Enable Settings Button**: Reveals a hidden settings menu for easy adjustments.
+- **Padding**: Adds customizable padding to the display's edges.
+- **Updater**: Automatically checks and applies new updates from within the app.
+- **Downdater**: Facilitates reverting to previous versions directly from the skin.
 
 ## Documentation
 
-[Wiki](http://localhost:3000/?page=roundify&section=wiki)
+Find detailed guides and instructions in our [Wiki](http://localhost:3000/?page=roundify&section=wiki).
 
 ## Special Thanks
 
 ### Skins:
 
-ColorPicker by jsmorley (Modified by Noah Bradford Rostant)
+- **ColorPicker** by jsmorley (Modified by Noah Bradford Rostant)
 
 ### Plugins:
 
-Frosted Glass by theAzack9
-IsFullScreen by jsmorley
-CursorColor by jsmorley
+- **Frosted Glass** by theAzack9
+- **IsFullScreen** by jsmorley
+- **CursorColor** by jsmorley
 
 ## Socials
 
