@@ -22,7 +22,7 @@ Utilizing Rainmeter, Roundify creates rounded edges for your screen and/or windo
 
 ## Documentation
 
-Find detailed guides and instructions in our [Wiki](http://localhost:3000/?page=roundify&section=wiki).
+Find detailed guides and instructions in our [Wiki](https://noahbrostant.github.io/Huebic/?page=roundify).
 
 ## Special Thanks
 
