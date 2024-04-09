@@ -1,40 +1,57 @@
 # Roundify (Discontinued as of 2022)
 
-Hello There Customizer,
+Welcome to the Roundify README, your guide to customizing the look of your display edges with a touch of elegance. Crafted with the Windows 11 Fluent theme in mind, Roundify introduces smoothly rounded corners to your display, enhancing your user interface with a modern aesthetic. This customization tool is compatible with Windows 7 and newer versions, given Rainmeter is installed on your system.
 
-This skin is allows you to easily create rounded edges to the edges of your display Following the new Windows 11 Fluent theme. It should work on Windows 7+ so long as you install Rainmeter.
-The skin is relatively simple in concept, however, I have given you all the tools in the settings menu to change and adapt the corners as you see fit.
-All parameters can be found in the settings menu which can be first accessed by moving your mouse the the very bottom right corner of your display (as far as it can go) and clicking. This should bring up a Settings menu.
+## Installation Requirements
 
-Rainmeter is Required!
------------------------------------------------------------------------------------------------------------------
+- **Rainmeter**: Essential for the operation of Roundify. Ensure Rainmeter is installed on your system before proceeding with Roundify's setup.
 
-Current Features:
-- Corner Radius. (Can be set between 0 - 100)
-- Corner Colour. (Opens a Colour Picker menu which can be downloaded separately for free curtesy of jsmorley)
-- Enable Fullscreen Corners. (When an app is in full screen keep the rounded corners on)
-- Enable Settings Button. (The hidden button in the bottom left to open the settings menu)
+## Features
 
-If at any point you wish to quit the app completely you can open the Settings menu and click "Quit" and then "Quit" again.
-or you can remove Rainmeter from your app settings. (NOTE: all other Rainmeter skins will also be removed)
+Roundify offers a suite of customization options to personalize your desktop experience:
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P5696XP)
------------------------------------------------------------------------------------------------------------------
+- **Corner Radius**: Adjustable from 0 to 100, allowing for complete control over the curvature of your display's corners.
+- **Corner Colour**: A dedicated Colour Picker menu (separate, free download courtesy of jsmorley) enables you to customize the corner color to your liking.
+- **Enable Fullscreen Corners**: Keeps the rounded corners active even when an application is in fullscreen mode, ensuring a consistent aesthetic.
+- **Enable Settings Button**: A discreet button located in the bottom left corner for easy access to the settings menu.
 
-Skins Used:
-- ColorPicker by jsmorley (Modified by Noah Bradford Rostant)
+## Usage
 
-Plugins Used:
-- InputText
-- Frosted Glass by theAzack9
-- IsFullScreen by jsmorley
-- CursorColor by jsmorley
------------------------------------------------------------------------------------------------------------------
+To access the settings menu for the first time, navigate your mouse to the very bottom right corner of your display and click. This action reveals the settings menu where all customization options can be found and adjusted.
 
+### Exiting Roundify
 
-NOTE: If any information is wrong please do let me know and I'll change it accordingly. If there are any bugs let me know and I'll try my best to squash them.
+To quit the application:
+1. Open the Settings menu.
+2. Click "Quit" and then "Quit" again to confirm.
 
-I hope you Enjoy it: Noah Bradford Rostant
+Alternatively, removing Rainmeter from your app settings will also remove Roundify (note that this action will remove all other Rainmeter skins).
 
-App used in Cover/Preview: Notes Sheet
-App used to round the taskbar: RoundedTB
+## Contributions
+
+- **Skins Used**: ColorPicker by jsmorley (Modified by Noah Bradford Rostant).
+- **Plugins Used**:
+  - InputText
+  - Frosted Glass by theAzack9
+  - IsFullScreen by jsmorley
+  - CursorColor by jsmorley
+
+## Feedback
+
+Encountered a bug or spotted incorrect information? Please reach out to Noah Bradford Rostant with your feedback. Your contributions help improve Roundify for everyone.
+
+## Acknowledgements
+
+- **Noah Bradford Rostant**: For the development and maintenance of Roundify.
+- **Community Contributions**: Special thanks to those who have provided feedback and bug reports.
+
+## Support
+
+Enjoying Roundify? Consider supporting the project through ko-fi.
+
+## Credits
+
+- **App used in Cover/Preview**: Notes Sheet App
+- **App used to round the taskbar**: RoundedTB
+
+Thank you for choosing Roundify to enhance your desktop experience. Enjoy the sleek new look of your display!
