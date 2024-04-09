@@ -43,7 +43,6 @@ CursorColor by jsmorley
 <p align="center">
     <a href="https://www.instagram.com/noahbrostant/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"></img></a>
     <a href="https://www.deviantart.com/noahbradford"><img src="https://img.icons8.com/color/48/000000/devianart.png"></img></a>
-    <a href="https://discord.gg/SZ5BZD93bg"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"></img></a>
 </p>
 <p align="center">
     <a href="https://ko-fi.com/P5P5696XP"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></img></a>
