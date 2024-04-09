@@ -1,4 +1,4 @@
-![Roundify Banner](images/RoundifySmallBannerRound.png)
+![Roundify Banner](images/RoundifyBannerSmallRound.png)
 # Roundify (Discontinued as of 2022)
 
 Welcome to the Roundify README, your guide to customizing the look of your display edges with a touch of elegance. Crafted with the Windows 11 Fluent theme in mind, Roundify introduces smoothly rounded corners to your display, enhancing your user interface with a modern aesthetic. This customization tool is compatible with Windows 7 and newer versions, given Rainmeter is installed on your system.
