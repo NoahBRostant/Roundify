@@ -52,11 +52,6 @@ Encountered a bug or spotted incorrect information? Please reach out to Noah Bra
 - **Noah Bradford Rostant**: For the development and maintenance of Roundify.
 - **Community Contributions**: Special thanks to those who have provided feedback and bug reports.
 
-## Credits
-
-- **App used in Cover/Preview**: Notes Sheet App
-- **App used to round the taskbar**: RoundedTB
-
 Thank you for choosing Roundify to enhance your desktop experience. Enjoy the sleek new look of your display!
 
 ## Socials
