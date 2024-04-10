@@ -5,7 +5,7 @@
     <a href="https://www.deviantart.com/noahbradford/art/Roundify-DISCONTINUED-892181221"><img style="margin-left: 2px; margin-right: 2px;" alt="Deviantart Views" src="https://img.shields.io/badge/Views-6.7K-brightgreen?style=flat&logo=deviantart"></a>
 </p>
 
-#### (Discontinued as of 2022)
+##### (Discontinued as of 2022)
 
 Welcome to the Roundify README, your guide to customizing the look of your display edges with a touch of elegance. Crafted with the Windows 11 Fluent theme in mind, Roundify introduces smoothly rounded corners to your display, enhancing your user interface with a modern aesthetic. This customization tool is compatible with Windows 7 and newer versions, given Rainmeter is installed on your system.
 
