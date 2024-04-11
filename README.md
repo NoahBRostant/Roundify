@@ -36,9 +36,10 @@ To quit the application:
 
 Alternatively, removing Rainmeter from your app settings will also remove Roundify (note that this action will remove all other Rainmeter skins).
 
-## Contributions
+## Special Thanks
 
-- **Skins Used**: ColorPicker by jsmorley (Modified by Noah Bradford Rostant).
+- **Skins Used**:
+  - ColorPicker by jsmorley (Modified by Noah Bradford Rostant).
 - **Plugins Used**:
   - InputText
   - Frosted Glass by theAzack9
