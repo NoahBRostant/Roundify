@@ -17,10 +17,12 @@ Welcome to the Roundify README, your guide to customizing the look of your displ
 
 Roundify offers a suite of customization options to personalize your desktop experience:
 
-- **Corner Radius**: Adjustable from 0 to 100, allowing for complete control over the curvature of your display's corners.
-- **Corner Colour**: A dedicated Colour Picker menu (separate, free download courtesy of jsmorley) enables you to customize the corner color to your liking.
-- **Enable Fullscreen Corners**: Keeps the rounded corners active even when an application is in fullscreen mode, ensuring a consistent aesthetic.
-- **Enable Settings Button**: A discreet button located in the bottom left corner for easy access to the settings menu.
+- **Corner Radius** 
+- **Corner Colour**
+- **Enable Fullscreen Corners**
+- **Enable Settings Button**
+
+**VISIT THE WIKI FOR MORE DETAILED INFORMATION**
 
 ## Usage
 
