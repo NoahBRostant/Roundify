@@ -44,6 +44,7 @@ Alternatively, removing Rainmeter from your app settings will also remove Roundi
   - Frosted Glass by theAzack9
   - IsFullScreen by jsmorley
   - CursorColor by jsmorley
+  - Update Checker by raiguard
 
 ## Feedback
 
