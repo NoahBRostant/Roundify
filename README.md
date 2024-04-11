@@ -51,7 +51,8 @@ Encountered a bug or spotted incorrect information? Please reach out to Noah Bra
 
 ## Acknowledgements
 
-- **Noah Bradford Rostant**: For the development and maintenance of Roundify.
+- **JaxCore**: A very special thanks to one of my favourite rainmeter programmers, who inspired me to develop this app to the fullest.
+- **JSMORLEY**: Thanks to their openness to view and disect their code, I was able to develop this app to what it is now.
 - **Community Contributions**: Special thanks to those who have provided feedback and bug reports.
 
 Thank you for choosing Roundify to enhance your desktop experience. Enjoy the sleek new look of your display!
