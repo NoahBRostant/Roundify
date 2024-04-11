@@ -40,7 +40,7 @@ Alternatively, removing Rainmeter from your app settings will also remove Roundi
 
 - **Skins Used**:
   - ColorPicker by jsmorley (Modified by Noah Bradford Rostant).
-- **Plugins Used**:
+- **Plugins/Scripts Used**:
   - InputText
   - Frosted Glass by theAzack9
   - IsFullScreen by jsmorley
