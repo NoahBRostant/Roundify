@@ -36,6 +36,7 @@ Find detailed guides and instructions in our [Wiki](https://noahbrostant.github.
 - **Frosted Glass** by theAzack9
 - **IsFullScreen** by jsmorley
 - **CursorColor** by jsmorley
+- **Update Checker** by raiguard
 
 ## Socials
 
