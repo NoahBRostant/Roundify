@@ -3,7 +3,7 @@
     <a href="https://github.com/noahbrostant/Roundify/releases/latest"><img style="margin-left: 2px; margin-right: 2px;" alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/noahbrostant/Roundify?sort=semver"></a>
     <a href="https://github.com/noahbrostant/Roundify/releases/latest"><img style="margin-left: 2px; margin-right: 2px;" alt="GitHub all releases" src="https://img.shields.io/github/downloads/noahbrostant/Roundify/total?logo=github"></a>
    <a href="https://www.deviantart.com/noahbradford/art/Roundify-DISCONTINUED-892181221"><img style="margin-left: 2px; margin-right: 2px;" alt="Deviantart Views" src="https://img.shields.io/badge/Downloads-563-green?logo=deviantart"></a>
-    <a href="https://www.deviantart.com/noahbradford/art/Roundify-DISCONTINUED-892181221"><img style="margin-left: 2px; margin-right: 2px;" alt="Deviantart Views" src="https://img.shields.io/badge/Views-6.8K-brightgreen?style=flat&logo=deviantart"></a>
+    <a href="https://www.deviantart.com/noahbradford/art/Roundify-DISCONTINUED-892181221"><img style="margin-left: 2px; margin-right: 2px;" alt="Deviantart Views" src="https://img.shields.io/badge/Views-6.9K-brightgreen?style=flat&logo=deviantart"></a>
 </p>
 
 ###### (Discontinued as of 2022)
